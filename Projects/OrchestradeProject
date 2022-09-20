@@ -1,31 +1,60 @@
-<mxfile host="app.diagrams.net" modified="2022-09-20T15:04:51.114Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="VWd-ctOQgFmS5rHglaHC" version="20.3.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-09-20T15:28:13.488Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="Des8F24HlWzGWBohsfNv" version="20.3.3" type="github">
   <diagram id="XIJxTm98xHS1HSA5hKlr" name="Page-1">
-    <mxGraphModel dx="981" dy="548" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="813" dy="454" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="sQMSkyTjYVOmNOApE0D9-2" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="160" y="120" as="sourcePoint" />
-            <mxPoint x="680" y="120" as="targetPoint" />
+        <mxCell id="sQMSkyTjYVOmNOApE0D9-7" value="&lt;h1 style=&quot;font-size: 10px;&quot;&gt;Our department ecosystem (RAL and Lombard businesses)&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;align=center;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="217" y="130" width="430" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="sQMSkyTjYVOmNOApE0D9-9" value="Orchestrade&#xa; (TradeManagement system)" style="swimlane;fontSize=8;startSize=53;" vertex="1" parent="1">
+          <mxGeometry x="520" y="446" width="195" height="213" as="geometry">
+            <mxRectangle x="465" y="267" width="100" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="sQMSkyTjYVOmNOApE0D9-4" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="159" y="559" as="sourcePoint" />
-            <mxPoint x="679" y="559" as="targetPoint" />
+        <mxCell id="sQMSkyTjYVOmNOApE0D9-10" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/general/File.svg;" vertex="1" parent="1">
+          <mxGeometry x="76" y="523" width="16.23" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="sQMSkyTjYVOmNOApE0D9-11" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/general/File.svg;" vertex="1" parent="1">
+          <mxGeometry x="76" y="533" width="16.23" height="19" as="geometry" />
+        </mxCell>
+        <mxCell id="sQMSkyTjYVOmNOApE0D9-12" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/general/File.svg;" vertex="1" parent="1">
+          <mxGeometry x="76" y="543" width="16.23" height="19" as="geometry" />
+        </mxCell>
+        <mxCell id="sQMSkyTjYVOmNOApE0D9-29" value="DataAdapter" style="swimlane;fontSize=7;" vertex="1" parent="1">
+          <mxGeometry x="167" y="496" width="83" height="73" as="geometry">
+            <mxRectangle x="157" y="353" width="100" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="sQMSkyTjYVOmNOApE0D9-5" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="160" y="560" as="sourcePoint" />
-            <mxPoint x="160" y="120" as="targetPoint" />
+        <mxCell id="sQMSkyTjYVOmNOApE0D9-32" value="DataAdapter" style="swimlane;fontSize=7;" vertex="1" parent="1">
+          <mxGeometry x="177" y="506" width="83" height="73" as="geometry">
+            <mxRectangle x="157" y="353" width="100" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="sQMSkyTjYVOmNOApE0D9-6" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="sQMSkyTjYVOmNOApE0D9-33" value="DataAdapter" style="swimlane;fontSize=7;" vertex="1" parent="1">
+          <mxGeometry x="187" y="516" width="83" height="73" as="geometry">
+            <mxRectangle x="157" y="353" width="100" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sQMSkyTjYVOmNOApE0D9-34" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fontSize=7;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="680" y="560" as="sourcePoint" />
-            <mxPoint x="680" y="120" as="targetPoint" />
+            <mxPoint x="95" y="546" as="sourcePoint" />
+            <mxPoint x="165" y="546" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sQMSkyTjYVOmNOApE0D9-35" value="DataLoader" style="swimlane;fontSize=7;" vertex="1" parent="1">
+          <mxGeometry x="312" y="509" width="83" height="73" as="geometry">
+            <mxRectangle x="157" y="353" width="100" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sQMSkyTjYVOmNOApE0D9-36" value="DataLoader" style="swimlane;fontSize=7;" vertex="1" parent="1">
+          <mxGeometry x="322" y="519" width="83" height="73" as="geometry">
+            <mxRectangle x="157" y="353" width="100" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sQMSkyTjYVOmNOApE0D9-37" value="DataLoader" style="swimlane;fontSize=7;" vertex="1" parent="1">
+          <mxGeometry x="332" y="529" width="83" height="73" as="geometry">
+            <mxRectangle x="157" y="353" width="100" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
       </root>
