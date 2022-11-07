@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-11-07T16:17:48.573Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="IKvTFlfwYkeVTYf-Dym0" version="20.5.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-07T16:29:40.184Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="UIRcyuHA48MDARWQmqtg" version="20.5.1" type="github">
   <diagram id="XIJxTm98xHS1HSA5hKlr" name="Page-1">
-    <mxGraphModel dx="1231" dy="1134" grid="1" gridSize="1" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="873" dy="934" grid="1" gridSize="1" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -50,7 +50,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="yOVeVuOEy4S6No4cYGqO-6" value="" style="swimlane;fontSize=20;startSize=108;align=left;" parent="1" vertex="1">
-          <mxGeometry x="880" y="232" width="1697" height="718" as="geometry" />
+          <mxGeometry x="932" y="205" width="1636" height="611" as="geometry" />
         </mxCell>
         <mxCell id="sQMSkyTjYVOmNOApE0D9-9" value="Orchestrade&#xa; (TradeManagement system)" style="swimlane;fontSize=12;startSize=53;" parent="yOVeVuOEy4S6No4cYGqO-6" vertex="1">
           <mxGeometry x="789" y="143" width="287" height="444" as="geometry">
@@ -64,7 +64,7 @@
           <mxGeometry x="50" y="188" width="40" height="48" as="geometry" />
         </mxCell>
         <mxCell id="jEyYXx4eYWmTKB3JGD92-9" value="SERVER" style="swimlane;fontSize=12;startSize=23;" vertex="1" parent="sQMSkyTjYVOmNOApE0D9-9">
-          <mxGeometry x="164" y="93" width="76" height="179" as="geometry">
+          <mxGeometry x="182" y="93" width="76" height="179" as="geometry">
             <mxRectangle x="157" y="353" width="100" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -72,22 +72,40 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="jEyYXx4eYWmTKB3JGD92-17" value="We develop:&lt;br&gt;&lt;ul&gt;&lt;li style=&quot;text-align: left;&quot;&gt;server side plugins&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;client side plugins&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;workflows&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;workflow validators&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;margin rules&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;tasks&lt;/li&gt;&lt;/ul&gt;" style="shape=note;strokeWidth=2;fontSize=14;size=20;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontColor=#666600;" vertex="1" parent="sQMSkyTjYVOmNOApE0D9-9">
-          <mxGeometry x="4" y="302" width="281" height="138" as="geometry" />
+          <mxGeometry x="4" y="302" width="165" height="138" as="geometry" />
         </mxCell>
         <mxCell id="jEyYXx4eYWmTKB3JGD92-22" value="CLIENT" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=2;fontSize=12;" vertex="1" parent="sQMSkyTjYVOmNOApE0D9-9">
           <mxGeometry x="38" y="144" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="jEyYXx4eYWmTKB3JGD92-1" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="yOVeVuOEy4S6No4cYGqO-6">
-          <mxGeometry x="544" y="202" width="84" height="116" as="geometry" />
+          <mxGeometry x="551" y="198" width="84" height="117" as="geometry" />
         </mxCell>
         <mxCell id="jEyYXx4eYWmTKB3JGD92-23" value="&lt;h1 style=&quot;color: rgb(0, 0, 0); text-align: left; font-size: 10px;&quot;&gt;&lt;div style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;font-size: 20px; background-color: initial; font-weight: normal;&quot;&gt;Our department ecosystem&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;ul&gt;&lt;li&gt;solution based on trade and risk management platform Orchestrade&lt;/li&gt;&lt;li&gt;~30 developers&lt;/li&gt;&lt;li&gt;RAL and Lombard trading desks&lt;/li&gt;&lt;li&gt;~500 active users, mainly based in Zurich, Singapore and New York&lt;/li&gt;&lt;/ul&gt;&lt;/h1&gt;" style="shape=note;strokeWidth=2;fontSize=14;size=20;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontColor=#666600;" vertex="1" parent="yOVeVuOEy4S6No4cYGqO-6">
           <mxGeometry x="442" y="12" width="738" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="jEyYXx4eYWmTKB3JGD92-21" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;fontSize=12;" edge="1" parent="1">
+        <mxCell id="jEyYXx4eYWmTKB3JGD92-24" value="MS SQL" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=2;fontSize=12;" vertex="1" parent="yOVeVuOEy4S6No4cYGqO-6">
+          <mxGeometry x="564" y="244" width="60" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="jEyYXx4eYWmTKB3JGD92-21" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;fontSize=12;exitX=1;exitY=0.75;exitDx=0;exitDy=0;" edge="1" parent="1" source="jEyYXx4eYWmTKB3JGD92-22">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1769" y="545" as="sourcePoint" />
-            <mxPoint x="1830" y="545" as="targetPoint" />
+            <mxPoint x="1901" y="515" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="jEyYXx4eYWmTKB3JGD92-26" value="Outside of our organization systems" style="swimlane;strokeWidth=2;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="1750" y="986" width="386" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="jEyYXx4eYWmTKB3JGD92-39" value="Orchestrade platform knows how to integrate with:&lt;br&gt;&lt;ul&gt;&lt;li&gt;Bloomberg&lt;br&gt;&lt;/li&gt;&lt;li&gt;Reuters&lt;br&gt;&lt;/li&gt;&lt;li&gt;etc&lt;/li&gt;&lt;/ul&gt;" style="shape=note;strokeWidth=2;fontSize=14;size=20;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontColor=#666600;align=left;" vertex="1" parent="jEyYXx4eYWmTKB3JGD92-26">
+          <mxGeometry x="20" y="34" width="337" height="151" as="geometry" />
+        </mxCell>
+        <mxCell id="jEyYXx4eYWmTKB3JGD92-38" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fontSize=12;entryX=0.5;entryY=1;entryDx=0;entryDy=0;startArrow=none;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="jEyYXx4eYWmTKB3JGD92-26" target="jEyYXx4eYWmTKB3JGD92-9">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1958" y="979" as="sourcePoint" />
+            <mxPoint x="1983" y="883" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jEyYXx4eYWmTKB3JGD92-42" value="Market Data" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=2;fontSize=14;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="1886" y="880" width="147" height="80.53" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
