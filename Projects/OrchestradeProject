@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-11-07T16:16:27.665Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="JkSvYQxgMMhjIkKAVbdT" version="20.5.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-07T16:17:48.573Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="IKvTFlfwYkeVTYf-Dym0" version="20.5.1" type="github">
   <diagram id="XIJxTm98xHS1HSA5hKlr" name="Page-1">
-    <mxGraphModel dx="873" dy="934" grid="1" gridSize="1" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1231" dy="1134" grid="1" gridSize="1" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -71,7 +71,7 @@
         <mxCell id="jEyYXx4eYWmTKB3JGD92-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.658;entryY=0.05;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="sQMSkyTjYVOmNOApE0D9-9" source="jEyYXx4eYWmTKB3JGD92-9" target="jEyYXx4eYWmTKB3JGD92-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="jEyYXx4eYWmTKB3JGD92-17" value="We develop:&lt;br&gt;&lt;ul&gt;&lt;li style=&quot;text-align: left;&quot;&gt;server side plugins&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;client side plugins&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;workflows&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;validators&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;tasks&lt;/li&gt;&lt;/ul&gt;" style="shape=note;strokeWidth=2;fontSize=14;size=20;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontColor=#666600;" vertex="1" parent="sQMSkyTjYVOmNOApE0D9-9">
+        <mxCell id="jEyYXx4eYWmTKB3JGD92-17" value="We develop:&lt;br&gt;&lt;ul&gt;&lt;li style=&quot;text-align: left;&quot;&gt;server side plugins&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;client side plugins&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;workflows&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;workflow validators&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;margin rules&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;tasks&lt;/li&gt;&lt;/ul&gt;" style="shape=note;strokeWidth=2;fontSize=14;size=20;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontColor=#666600;" vertex="1" parent="sQMSkyTjYVOmNOApE0D9-9">
           <mxGeometry x="4" y="302" width="281" height="138" as="geometry" />
         </mxCell>
         <mxCell id="jEyYXx4eYWmTKB3JGD92-22" value="CLIENT" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=2;fontSize=12;" vertex="1" parent="sQMSkyTjYVOmNOApE0D9-9">
