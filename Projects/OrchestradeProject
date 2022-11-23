@@ -1,26 +1,17 @@
-<mxfile host="app.diagrams.net" modified="2022-11-23T21:41:54.006Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="1esCs9ZcU13F0y_8lyr-" version="20.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-23T21:44:35.218Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="Rt1cbYAvKdB5fvm_9eet" version="20.5.3" type="github">
   <diagram id="XIJxTm98xHS1HSA5hKlr" name="Page-1">
-    <mxGraphModel dx="1770" dy="1205" grid="1" gridSize="1" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1800" dy="860" grid="1" gridSize="1" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="jEyYXx4eYWmTKB3JGD92-26" value="Outside of our organization systems" style="swimlane;strokeWidth=2;fontSize=12;" parent="1" vertex="1">
-          <mxGeometry x="1750" y="986" width="386" height="220" as="geometry" />
+          <mxGeometry x="1734" y="890" width="386" height="220" as="geometry" />
         </mxCell>
         <mxCell id="jEyYXx4eYWmTKB3JGD92-39" value="Orchestrade platform knows how to integrate with:&lt;br&gt;&lt;ul&gt;&lt;li&gt;Bloomberg&lt;br&gt;&lt;/li&gt;&lt;li&gt;Reuters&lt;br&gt;&lt;/li&gt;&lt;li&gt;etc&lt;/li&gt;&lt;/ul&gt;" style="shape=note;strokeWidth=2;fontSize=14;size=20;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontColor=#666600;align=left;" parent="jEyYXx4eYWmTKB3JGD92-26" vertex="1">
           <mxGeometry x="20" y="34" width="337" height="151" as="geometry" />
         </mxCell>
-        <mxCell id="jEyYXx4eYWmTKB3JGD92-38" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fontSize=12;startArrow=none;" parent="1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1929" y="986" as="sourcePoint" />
-            <mxPoint x="1925" y="718" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="jEyYXx4eYWmTKB3JGD92-42" value="Market Data" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=2;fontSize=14;rotation=-90;" parent="1" vertex="1">
-          <mxGeometry x="1873" y="814" width="147" height="80.53" as="geometry" />
-        </mxCell>
         <mxCell id="yOVeVuOEy4S6No4cYGqO-6" value="" style="swimlane;fontSize=20;startSize=108;align=left;" parent="1" vertex="1">
-          <mxGeometry x="1026" y="64" width="1394" height="853" as="geometry" />
+          <mxGeometry x="1026" y="64" width="1427" height="806" as="geometry" />
         </mxCell>
         <mxCell id="sQMSkyTjYVOmNOApE0D9-9" value="Orchestrade&#xa; (ThirdParty TradeManagement system)" style="swimlane;fontSize=12;startSize=53;labelBorderColor=#FF0000;" parent="yOVeVuOEy4S6No4cYGqO-6" vertex="1">
           <mxGeometry x="776" y="158" width="345" height="490" as="geometry">
@@ -160,15 +151,6 @@
         <mxCell id="p6SEcUHLux8IKyB3Phkg-47" value="REST Services&lt;br&gt;" style="swimlane;whiteSpace=wrap;html=1;labelBorderColor=#FF0000;fontSize=14;" vertex="1" parent="yOVeVuOEy4S6No4cYGqO-6">
           <mxGeometry x="1234" y="312" width="114" height="182" as="geometry" />
         </mxCell>
-        <mxCell id="jEyYXx4eYWmTKB3JGD92-84" value="" style="group" parent="yOVeVuOEy4S6No4cYGqO-6" vertex="1" connectable="0">
-          <mxGeometry x="1035" y="687" width="118" height="124" as="geometry" />
-        </mxCell>
-        <mxCell id="jEyYXx4eYWmTKB3JGD92-82" value="" style="shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#4495D1;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.2d.web_ui;strokeWidth=2;fontSize=14;" parent="jEyYXx4eYWmTKB3JGD92-84" vertex="1">
-          <mxGeometry x="4" y="26" width="118" height="91" as="geometry" />
-        </mxCell>
-        <mxCell id="jEyYXx4eYWmTKB3JGD92-83" value="Web UI" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=2;fontSize=14;" parent="jEyYXx4eYWmTKB3JGD92-84" vertex="1">
-          <mxGeometry x="28" width="60" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="p6SEcUHLux8IKyB3Phkg-56" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fontSize=14;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="yOVeVuOEy4S6No4cYGqO-6" source="p6SEcUHLux8IKyB3Phkg-47" target="jEyYXx4eYWmTKB3JGD92-82">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="910" y="478" as="sourcePoint" />
@@ -180,6 +162,15 @@
             <mxPoint x="1124" y="405" as="sourcePoint" />
             <mxPoint x="1235" y="405" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="jEyYXx4eYWmTKB3JGD92-84" value="" style="group" parent="yOVeVuOEy4S6No4cYGqO-6" vertex="1" connectable="0">
+          <mxGeometry x="1045" y="686" width="118" height="124" as="geometry" />
+        </mxCell>
+        <mxCell id="jEyYXx4eYWmTKB3JGD92-82" value="" style="shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#4495D1;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.2d.web_ui;strokeWidth=2;fontSize=14;" parent="jEyYXx4eYWmTKB3JGD92-84" vertex="1">
+          <mxGeometry x="4" y="26" width="118" height="91" as="geometry" />
+        </mxCell>
+        <mxCell id="jEyYXx4eYWmTKB3JGD92-83" value="Web UI" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=2;fontSize=14;" parent="jEyYXx4eYWmTKB3JGD92-84" vertex="1">
+          <mxGeometry x="28" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="jEyYXx4eYWmTKB3JGD92-59" value="Trade booking system" style="swimlane;strokeWidth=2;fontSize=12;" parent="1" vertex="1">
           <mxGeometry x="681" y="410" width="211" height="180" as="geometry" />
@@ -240,6 +231,18 @@
             <mxPoint x="1382" y="661" as="sourcePoint" />
             <mxPoint x="1432" y="611" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="p6SEcUHLux8IKyB3Phkg-73" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="1903" y="715" width="80.53" height="177.77" as="geometry" />
+        </mxCell>
+        <mxCell id="jEyYXx4eYWmTKB3JGD92-38" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fontSize=12;startArrow=none;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="p6SEcUHLux8IKyB3Phkg-73" edge="1" source="jEyYXx4eYWmTKB3JGD92-26">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="22.765000000000043" y="227.1225418921174" as="sourcePoint" />
+            <mxPoint x="18.765000000000054" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jEyYXx4eYWmTKB3JGD92-42" value="Market Data" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=2;fontSize=14;rotation=-90;" parent="p6SEcUHLux8IKyB3Phkg-73" vertex="1">
+          <mxGeometry x="-33.23499999999982" y="81.35732843896743" width="146.99999999999963" height="68.24693394989632" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
