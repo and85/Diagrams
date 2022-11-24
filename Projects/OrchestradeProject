@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-24T21:48:44.437Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="rL_bXSWdc3BJw_8Y6fa5" version="20.6.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-24T21:49:14.055Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="FliJsG2fsOSJYWbacNej" version="20.6.0" type="github">
   <diagram id="XIJxTm98xHS1HSA5hKlr" name="Page-1">
     <mxGraphModel dx="1162" dy="803" grid="1" gridSize="1" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -10,7 +10,7 @@
         <mxCell id="jEyYXx4eYWmTKB3JGD92-39" value="Orchestrade platform knows how to integrate with:&lt;br&gt;&lt;ul&gt;&lt;li&gt;Bloomberg&lt;br&gt;&lt;/li&gt;&lt;li&gt;Reuters&lt;/li&gt;&lt;li&gt;etc&lt;/li&gt;&lt;/ul&gt;" style="shape=note;strokeWidth=2;fontSize=14;size=20;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontColor=#666600;align=left;" parent="jEyYXx4eYWmTKB3JGD92-26" vertex="1">
           <mxGeometry x="20" y="34" width="337" height="151" as="geometry" />
         </mxCell>
-        <mxCell id="yOVeVuOEy4S6No4cYGqO-6" value="" style="swimlane;fontSize=20;startSize=108;align=left;" parent="1" vertex="1">
+        <mxCell id="yOVeVuOEy4S6No4cYGqO-6" value="" style="swimlane;fontSize=20;startSize=108;align=left;dashed=1;" parent="1" vertex="1">
           <mxGeometry x="1026" y="64" width="1617" height="875" as="geometry" />
         </mxCell>
         <mxCell id="sQMSkyTjYVOmNOApE0D9-9" value="Orchestrade&#xa; (ThirdParty TradeManagement system)" style="swimlane;fontSize=12;startSize=53;labelBorderColor=#FF0000;" parent="yOVeVuOEy4S6No4cYGqO-6" vertex="1">
