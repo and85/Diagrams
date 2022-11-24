@@ -1,13 +1,13 @@
-<mxfile host="app.diagrams.net" modified="2022-11-24T21:40:58.563Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="9XowCgz--UHwesJLrkFx" version="20.6.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-24T21:45:03.339Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="TFjoEgdpFH86sQNLIK9q" version="20.6.0" type="github">
   <diagram id="XIJxTm98xHS1HSA5hKlr" name="Page-1">
-    <mxGraphModel dx="777" dy="482" grid="1" gridSize="1" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="985" dy="567" grid="1" gridSize="1" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="jEyYXx4eYWmTKB3JGD92-26" value="Outside of our organization systems" style="swimlane;strokeWidth=2;fontSize=12;" parent="1" vertex="1">
           <mxGeometry x="1740" y="968" width="386" height="220" as="geometry" />
         </mxCell>
-        <mxCell id="jEyYXx4eYWmTKB3JGD92-39" value="Orchestrade platform knows how to integrate with:&lt;br&gt;&lt;ul&gt;&lt;li&gt;Bloomberg&lt;br&gt;&lt;/li&gt;&lt;li&gt;Reuters&lt;br&gt;&lt;/li&gt;&lt;li&gt;etc&lt;/li&gt;&lt;/ul&gt;" style="shape=note;strokeWidth=2;fontSize=14;size=20;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontColor=#666600;align=left;" parent="jEyYXx4eYWmTKB3JGD92-26" vertex="1">
+        <mxCell id="jEyYXx4eYWmTKB3JGD92-39" value="Orchestrade platform knows how to integrate with:&lt;br&gt;&lt;ul&gt;&lt;li&gt;Bloomberg&lt;br&gt;&lt;/li&gt;&lt;li&gt;Reuters&lt;/li&gt;&lt;li&gt;etc&lt;/li&gt;&lt;/ul&gt;" style="shape=note;strokeWidth=2;fontSize=14;size=20;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontColor=#666600;align=left;" parent="jEyYXx4eYWmTKB3JGD92-26" vertex="1">
           <mxGeometry x="20" y="34" width="337" height="151" as="geometry" />
         </mxCell>
         <mxCell id="yOVeVuOEy4S6No4cYGqO-6" value="" style="swimlane;fontSize=20;startSize=108;align=left;" parent="1" vertex="1">
