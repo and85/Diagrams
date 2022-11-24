@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-11-24T21:55:25.394Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="SHaoZK6ThiuEZ5MOVUP9" version="20.6.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-24T21:56:07.228Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="l_8DU7rWmsNJUp0SPsP3" version="20.6.0" type="github">
   <diagram id="XIJxTm98xHS1HSA5hKlr" name="Page-1">
-    <mxGraphModel dx="1529" dy="1071" grid="1" gridSize="1" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="514" dy="507" grid="1" gridSize="1" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -53,7 +53,7 @@
             <mxPoint x="230" y="190" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="jEyYXx4eYWmTKB3JGD92-23" value="&lt;h1 style=&quot;color: rgb(0, 0, 0); text-align: left; font-size: 10px;&quot;&gt;&lt;div style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;font-size: 20px; background-color: initial; font-weight: normal;&quot;&gt;Our department ecosystem&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;ul&gt;&lt;li&gt;solution based on trade and risk management platform Orchestrade&lt;/li&gt;&lt;li&gt;~30 developers&lt;/li&gt;&lt;li&gt;2 trading desks&lt;/li&gt;&lt;li&gt;~500 active users, mainly based in Zurich, Singapore and New York&lt;/li&gt;&lt;/ul&gt;&lt;/h1&gt;" style="shape=note;strokeWidth=2;fontSize=14;size=20;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontColor=#666600;" parent="yOVeVuOEy4S6No4cYGqO-6" vertex="1">
+        <mxCell id="jEyYXx4eYWmTKB3JGD92-23" value="&lt;h1 style=&quot;color: rgb(0, 0, 0); text-align: left; font-size: 10px;&quot;&gt;&lt;div style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;font-size: 20px; background-color: initial; font-weight: normal;&quot;&gt;Our department ecosystem&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;ul&gt;&lt;li&gt;solution based on trade and risk management platform &quot;Orchestrade&quot;&lt;/li&gt;&lt;li&gt;~30 developers&lt;/li&gt;&lt;li&gt;2 trading desks&lt;/li&gt;&lt;li&gt;~500 active users, mainly based in Zurich, Singapore and New York&lt;/li&gt;&lt;/ul&gt;&lt;/h1&gt;" style="shape=note;strokeWidth=2;fontSize=14;size=20;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontColor=#666600;" parent="yOVeVuOEy4S6No4cYGqO-6" vertex="1">
           <mxGeometry x="442" y="12" width="738" height="80" as="geometry" />
         </mxCell>
         <mxCell id="jEyYXx4eYWmTKB3JGD92-75" value="" style="group" parent="yOVeVuOEy4S6No4cYGqO-6" vertex="1" connectable="0">
